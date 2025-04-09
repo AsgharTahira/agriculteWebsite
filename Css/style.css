@@ -1,0 +1,35 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Marcellus", serif;
+}
+
+/* ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+} */
+
+h1{
+    font-size: 35px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 16px;
+    color: #212529;
+}
+
+.logo{
+    width: 70%;
+}
+
