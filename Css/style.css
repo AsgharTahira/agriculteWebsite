@@ -33,3 +33,29 @@ p{
     width: 70%;
 }
 
+
+
+
+
+/* ====== SERVICES SECTION ======= */
+
+.serv_icon{
+    width: 20%;
+}
+
+.Services{
+    padding: 100px 0px;
+}
+
+.services_inner_box{
+    position: relative;
+}
+
+.services_number{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ccc;
+}
