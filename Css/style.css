@@ -8,6 +8,8 @@ body{
     font-family: "Marcellus", serif;
 }
 
+/* === GreenColor: #116530 === */
+
 /* ul{
     list-style: none;
 }
@@ -15,6 +17,10 @@ body{
 a{
     text-decoration: none;
 } */
+
+.greyColor{
+    color: #ccc;
+}
 
 h1{
     font-size: 35px;
@@ -83,3 +89,26 @@ width: 50%;
     display: flex;
 }
 
+
+.AboutUs{
+    background-color:#116530 ;
+    margin-top: 80px;
+}
+
+.aboutContent{
+    padding-top: 110px;
+}
+
+.aboutImageBox img{
+    margin-top: -50px;
+}
+
+.iconsABout img{
+    width: 10%;
+}
+
+
+.iconDesctip{
+    /* margin-top: 10px; */
+    transform: translateY(10px);
+}
