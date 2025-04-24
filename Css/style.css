@@ -112,3 +112,24 @@ width: 50%;
     /* margin-top: 10px; */
     transform: translateY(10px);
 }
+
+.videBox{
+    background-image: url(../images/hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.videoContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.getInTouch{
+    background-color: green;
+    
+}
